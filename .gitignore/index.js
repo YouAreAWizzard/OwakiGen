@@ -233,4 +233,4 @@ if(command === "help") {
 }	
 })	
 
-bot.login(Nzg5MjkzOTc2MzcyNjQxODAy.X9v9TA.g-KbDw6nnbdh7XD9wrDOG8LQTf0);	
+bot.login(process.env.TOKEN);	
